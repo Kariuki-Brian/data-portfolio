@@ -13,4 +13,4 @@ documents the decisions behind every metric, and ends in a published dashboard.
 
 ## About me
 Business Administration (Marketing) student with a Business Analytics minor at Central Washington University,
-and a Tableau Desktop Specialist. Based in the Seattle-Tacoma area.
+and a Tableau Desktop Specialist. Based in the Seattle-Puyallup area.
