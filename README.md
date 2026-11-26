@@ -9,7 +9,7 @@ documents the decisions behind every metric, and ends in a published dashboard.
 | Project | Question | Tools | Links |
 |---|---|---|---|
 | [Bank Complaints Relief Analysis](cfpb-complaints/) | How do 10 major U.S. banks compare on how they resolve consumer complaints? | SQL (SQLite), Tableau | [Dashboard](https://public.tableau.com/views/BankComplaintsReliefAnalysis/Dashboard1) · [SQL](cfpb-complaints/sql/) |
-| SBA 7(a) Small-Business Loans *(in progress)* | Which government-guaranteed small-business loans go bad, by approval year, lender, industry and business age? | SQL (CTEs, window functions, dates), Tableau, Power BI | Coming soon |
+| [SBA 7(a) Small-Business Loans](sba-loans/) | What share of funded SBA small-business loans were charged off within 36 months, by approval year? | SQL (SQLite: CTEs, CASE, date math) | [SQL](sba-loans/sql/) · [Findings](sba-loans/findings.md) · Dashboard in progress |
 
 ## About me
 Business Administration (Marketing) student with a Business Analytics minor at Central Washington University,
